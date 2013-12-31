@@ -1,0 +1,14 @@
+## Interface: 40200
+## Title: |cffa0a0f0Stay Focused!|r Pet Care
+## Notes: Pet's health/power display.
+## Author: Drauer
+## Version: 40200.1
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## SavedVariablesPerCharacter: StayFocusedPetCareDB
+## Dependencies: StayFocused
+
+tekKonfig\tekKonfig.xml
+
+StayFocused_PetCare.lua
+Config.lua
